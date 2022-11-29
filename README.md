@@ -1,5 +1,5 @@
 ﻿# Pig-Dice-Game
- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> | <img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=%231572B6"/> | <img src="https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=%23F7DF1E"/> \
+ <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> | <img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6"/> | <img src="https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=%23F7DF1E"/> \
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/07b8ca97-4b2b-483d-9cf6-49a5858842d6/deploy-status)](https://app.netlify.com/sites/sayancr777-pig-dice-game/deploys) \
