@@ -1,6 +1,6 @@
 ﻿# Pig-Dice-Game
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) \
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) \
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/07b8ca97-4b2b-483d-9cf6-49a5858842d6/deploy-status)](https://app.netlify.com/sites/sayancr777-pig-dice-game/deploys) \
 Pig Dice is a game of luck and intrigue where players roll a die until they get a one or choose to stop and bank their total. First player to bank 100 points wins
 
