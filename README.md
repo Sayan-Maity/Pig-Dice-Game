@@ -37,3 +37,8 @@ Pull requests are encouraged
 - The game rules can be included within the webpage itself to help users understand the game
 - UI part can be improved by adding some animations
 - Instead of default 100 points, players are able to set the benchmark by themselves
+
+## License
+This project is licensed under the MIT license.
+
+Copyright (c) 2022 {Sayan Maity}
